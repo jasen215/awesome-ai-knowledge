@@ -117,6 +117,7 @@ Knowledge base tools for AI agents, including RAG engines, knowledge graphs, vec
 - [MegaParse](https://github.com/QuivrHQ/MegaParse) - Efficient and flexible parsing tool for LLMs.
 - [Chonkie](https://github.com/6gh/Chonkie) - Fast, lightweight, and efficient text chunking library.
 - [LlamaCpp](https://github.com/ggerganov/llama.cpp) - LLM inference in C/C++ with document processing capabilities.
+- [qmd](https://github.com/tobi/qmd) - Mini CLI search engine for docs, knowledge bases, and meeting notes.
 
 ---
 
