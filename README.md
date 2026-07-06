@@ -9,7 +9,7 @@
 
 > A curated list of knowledge base tools, frameworks, and engines for AI agents
 
-Knowledge base tools for AI agents, including RAG engines, knowledge graphs, vector databases, MCP services, and document processing tools.
+Knowledge base tools for AI agents, including RAG engines, knowledge graphs, vector databases, MCP services, document processing tools, and Karpathy LLM Wiki.
 
 ## Contents
 
