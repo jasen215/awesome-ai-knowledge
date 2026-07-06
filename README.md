@@ -1,4 +1,11 @@
-# Awesome AI Knowledge [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome AI Knowledge
+
+<div align="center">
+    <a href="https://awesome.re"><img src="https://awesome.re/badge.svg"/></a>
+    <a href="http://makeapullrequest.com"><img src="https://img.shields.io/badge/PRs-welcome-green.svg"/></a>
+    <a href="http://makeapullrequest.com"><img src="https://img.shields.io/github/last-commit/jasen215/awesome-ai-knowledge?color=blue"/></a>
+    <a href="http://makeapullrequest.com"><img src="https://img.shields.io/github/stars/jasen215/awesome-ai-knowledge"/></a>
+</div>
 
 > A curated list of knowledge base tools, frameworks, and engines for AI agents
 
