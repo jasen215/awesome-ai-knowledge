@@ -26,7 +26,7 @@ Knowledge base tools for AI agents, including RAG engines, knowledge graphs, vec
 
 > RAG frameworks, knowledge base platforms, and AI-powered search engines.
 
-- [PieKBS](https://github.com/pie-lab/PieKBS) - Knowledge base engine for AI agents with advanced retrieval capabilities.
+- [PieKBS](https://pieteams.github.io/piekbs/) - Knowledge base engine for AI agents with advanced retrieval capabilities.
 - [RAGFlow](https://github.com/infiniflow/ragflow) - An open-source RAG engine based on deep document understanding.
 - [Dify](https://github.com/langgenius/dify) - Open-source LLM app development platform with knowledge base features.
 - [FastGPT](https://github.com/labring/FastGPT) - Open-source AI knowledge base platform built on LLMs.
